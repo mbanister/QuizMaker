@@ -154,22 +154,6 @@ and score who has the highest score, and the rank of the currently player
 based on his/her score.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Timeline:
-Jan. 30 : main() , read_questions( ) & read_answers( ) set up. Stubs for other major
-functions done.
-Feb. 6 : show_question( ) & player_try( ) implemented.
-Feb. 13 : most of play_game( ) done, player_try( ) and sort_score() completed.
-Feb. 1 8 : All functions work. Full test your program on the Linux server.
-Feb. 20 : Due Date. It should be fully commented and follow the coding standards.
-
-Comments and Suggestions:
-
-DO NOT DELAY. Start writing the program from Day 1. If you wait until the night before the
-due date, you will have a miserable night and it is less likely you could complete the project.
-
-Do not try and write the entire program all at one time. Work on the program in small sections,
-as the timeline indicates.
-
 Notes:
 
 - Your program should accept both upper case and lower case user choice. Make sure to use
