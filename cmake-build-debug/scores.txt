@@ -1,0 +1,7 @@
+Jim	6
+John	7
+Jack	3Miles	4
+Miles	1
+Miles	11111111
+Greg	11221
+Miles	11111

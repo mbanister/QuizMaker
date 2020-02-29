@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/miles/Downloads/CLionProjects/CS2308/Project_1/Miles_Banister_prog1.cpp
+iostream
+-
+string
+-
+fstream
+-
+ctime
+-
+cstdlib
+-
+sstream
+-
+
